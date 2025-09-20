@@ -43,7 +43,7 @@ Key columns include:
   - Visualization: Matplotlib, Seaborn
 
 ## Installation
-1. Clone the repository: git clone https://github.com/your-username/telecom-churn-prediction.git
+1. Clone the repository: git clone https://github.com/ruchira2424/telecom-churn-prediction.git
 cd telecom-churn-prediction
 
    
