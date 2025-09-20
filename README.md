@@ -33,7 +33,7 @@ Key columns include:
 
 ## Features
 - **Preprocessing**: Dropping unnecessary columns, label encoding for categorical features (e.g., International plan, Voice mail plan), and converting the target (Churn) to numeric.
-- **Modeling**: A tree-based model (e.g., Random Forest or Gradient Boosting) is trained on the preprocessed data.
+- **Modeling**: A tree-based model (e.g., Random Forest or Gradient Boosting) is trained on the preprocessed dta.
 - **Visualization**:
   - Bar plot for feature importances in predicting churn.
   - Heatmap for the confusion matrix to evaluate model performance.
@@ -43,4 +43,7 @@ Key columns include:
   - Visualization: Matplotlib, Seaborn
 
 ## Installation
-1. Clone the repository:
+1. Clone the repository: git clone https://github.com/your-username/telecom-churn-prediction.git
+cd telecom-churn-prediction
+
+   
